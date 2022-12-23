@@ -20,6 +20,8 @@ function Detalle(props) {
   return (
     <div>
       {details.original_title} 
+
+      hola  mundo 
     </div>
   )
 }
